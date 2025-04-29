@@ -17,17 +17,17 @@ Para manter as dependências isoladas, crie um ambiente virtual com o seguinte c
 
 - Windows:
 
-  venv\Scripts\activate
+ - venv\Scripts\activate
 
 - Linux/macOS:
 
-  source venv/bin/activate
+ - source venv/bin/activate
 
 ### 3. Instalar dependências
 
 Após ativar o ambiente virtual, instale todas as bibliotecas necessárias executando:
 
-  pip install -r requirements.txt
+ - pip install -r requirements.txt
 
 Isso instalará as seguintes bibliotecas:
 
@@ -37,13 +37,13 @@ Isso instalará as seguintes bibliotecas:
 
 Caso precise instalar manualmente, use:
 
-  pip install gradio transformers torch
+ - pip install gradio transformers torch
 
 ## Executando o Projeto
 
 Após configurar o ambiente, execute o script principal para iniciar a análise:
 
-  python programa.py
+ - python programa.py
 
 Isso inicializará a interface gráfica onde você poderá inserir expressões aritméticas para avaliação.
 
