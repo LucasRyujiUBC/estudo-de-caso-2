@@ -11,7 +11,7 @@ A interface gráfica é construída com Gradio, permitindo que os usuários inte
 ### 1. Criar um ambiente virtual (recomendado)
 Para manter as dependências isoladas, crie um ambiente virtual com o seguinte comando:
 
-  python -m venv venv
+ - python -m venv venv
 
 ### 2. Ativar o ambiente virtual
 
